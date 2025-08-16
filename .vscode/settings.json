@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3ecd3ad0-93a3-4527-87ce-2aae11246f55/resourceGroups/AIAcademy/providers/Microsoft.Web/sites/aiacademy",
+    "appService.deploySubpath": "controllers"
+}
