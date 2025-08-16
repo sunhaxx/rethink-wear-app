@@ -36,3 +36,4 @@ jobs:
         app_location: './' # Adjust this path to your app's location
         output_location: 'build' # Adjust this path to your build output
         azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
+        action: 'upload' # Specify the required action
